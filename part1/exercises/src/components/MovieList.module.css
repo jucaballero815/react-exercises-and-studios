@@ -1,7 +1,13 @@
 .movieText {
-   color: black;
+   font-size: 125%;
+   text-align: left;
+   font-style: italic;
+   /*float: left;*/
+   color: blue;
 }
 
 .movieHeading {
-   color: black;
+   font-size: 150%;
+   color: green;
+   text-decoration-line: underline
 }
